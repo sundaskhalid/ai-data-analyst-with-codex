@@ -1,6 +1,6 @@
-# Codex demo prompt
+# AI data analyst prompt
 
-Copy and paste this prompt into Codex from the project folder:
+Copy and paste this prompt into ChatGPT, Claude, Codex, or another AI tool that can analyze uploaded files. Upload the customer retention CSV first, or open the complete project folder if your tool supports it.
 
 ```text
 Act as my AI data analyst. Analyze data/customer_retention_data.csv to identify what is driving the latest retention decline.
