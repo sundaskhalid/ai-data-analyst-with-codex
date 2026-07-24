@@ -1,0 +1,4 @@
+segment,baseline_customers,baseline_retention,baseline_visits,baseline_crash,baseline_email,baseline_promo,baseline_support,baseline_risk,drop_customers,drop_retention,drop_visits,drop_crash,drop_email,drop_promo,drop_support,drop_risk,baseline_share,drop_share,retention_delta_pp,within_contribution_pp,mix_contribution_pp,approx_drop_contribution_pp
+Android,1126,73.6,2.3,0.0,12.8,35.5,7.4,40.9,193,39.4,1.6,84.5,1.0,7.3,26.9,70.3,32.5,32.8,-34.2,-11.2,0.0,-11.2
+iOS,1256,72.2,2.2,0.0,14.3,32.3,6.7,42.0,182,39.6,1.5,80.2,3.3,8.8,23.6,68.6,36.2,31.0,-32.7,-10.1,0.0,-10.1
+Web,1083,71.9,2.2,0.0,9.3,32.0,7.4,42.1,213,58.2,1.8,0.0,2.3,12.7,6.6,51.9,31.3,36.2,-13.7,-5.0,-0.0,-5.0

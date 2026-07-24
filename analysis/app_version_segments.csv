@@ -1,0 +1,7 @@
+segment,baseline_customers,baseline_retention,baseline_visits,baseline_crash,baseline_email,baseline_promo,baseline_support,baseline_risk,drop_customers,drop_retention,drop_visits,drop_crash,drop_email,drop_promo,drop_support,drop_risk,baseline_share,drop_share,retention_delta_pp,within_contribution_pp,mix_contribution_pp,approx_drop_contribution_pp
+4.3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,274.0,33.2,1.6,100.0,1.8,8.8,29.9,74.8,0.0,46.6,33.2,15.5,-33.8,-18.3
+web,1083.0,71.9,2.2,0.0,9.3,32.0,7.4,42.1,213.0,58.2,1.8,0.0,2.3,12.7,6.6,51.9,31.3,36.2,-13.7,-5.0,-0.0,-5.0
+4.3.0,639.0,73.7,2.4,0.0,15.0,31.6,8.1,39.2,67.0,50.7,1.5,43.3,4.5,4.5,17.9,55.2,18.4,11.4,-23.0,-2.6,-0.1,-2.7
+4.2.9,821.0,73.3,2.2,0.0,13.8,35.0,6.9,41.9,34.0,67.6,1.4,17.6,0.0,8.8,2.9,54.9,23.7,5.8,-5.7,-0.3,-0.1,-0.5
+4.2.7,306.0,75.2,2.1,0.0,14.4,36.6,4.9,41.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.8,0.0,-75.2,-0.0,-0.2,-0.2
+4.2.8,616.0,70.3,2.1,0.0,11.4,33.3,7.0,43.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.8,0.0,-70.3,-0.0,0.4,0.4
