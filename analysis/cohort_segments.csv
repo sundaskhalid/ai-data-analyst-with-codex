@@ -1,5 +1,0 @@
-segment,baseline_customers,baseline_retention,baseline_visits,baseline_crash,baseline_email,baseline_promo,baseline_support,baseline_risk,drop_customers,drop_retention,drop_visits,drop_crash,drop_email,drop_promo,drop_support,drop_risk,baseline_share,drop_share,retention_delta_pp,within_contribution_pp,mix_contribution_pp,approx_drop_contribution_pp
-Returning,1549,76.8,2.2,0.0,12.0,31.6,6.9,38.7,275,46.5,1.5,54.9,2.2,9.8,14.5,63.4,44.7,46.8,-30.2,-14.1,0.1,-14.0
-New,803,64.6,1.9,0.0,11.3,32.6,6.1,52.8,123,32.5,1.5,46.3,1.6,11.4,18.7,75.4,23.2,20.9,-32.1,-6.7,0.2,-6.5
-Power User,686,93.1,3.1,0.0,16.6,42.6,10.9,18.7,137,70.1,2.1,54.0,3.6,9.5,26.3,42.4,19.8,23.3,-23.1,-5.4,0.7,-4.7
-At Risk,427,39.3,1.5,0.0,7.7,25.8,3.7,68.2,53,15.1,1.3,50.9,0.0,5.7,18.9,86.5,12.3,9.0,-24.2,-2.2,1.1,-1.1
