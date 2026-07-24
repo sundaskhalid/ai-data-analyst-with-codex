@@ -27,3 +27,7 @@ Create two final deliverables:
 
 Save the code and all outputs. Make sure the numbers in the presentation match the Excel workbook.
 ```
+
+## Stay connected
+
+Want future webinars and practical AI lessons? [Subscribe to my newsletter](https://sundaskhalid.com/newsletter).
